@@ -1,0 +1,23 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVufn5KfGleRmJBQWVtbWxAN75UWc=": "utter_cheer_up",
+    "eJydjlEKgCAQRK/iATqBV4lYxJYUchVdgxDv3oL9G/0MM/B4zNr6olrKeIGx7CNp1UYBMgG1esfpCyMJWwtmYTzJZK2OjMh94qjMmGGg/wyTFyHGHSo5k9L97Yx1KFnTzLU9XiFuqQ==": "utter_did_that_help",
+    "eJytjlEKgCAQRK/iATqBV4lYRIcUahVbg5DunlD/RvQzzMDjMWM9B1VTxk7GSoisVb0LsVmh1TOWsAm4sWVDbkzgNkWrOQNydhxFBJlu9Juh82KN0VFhb1I63p2xHi1L+sPlgiPxRshj6QqnC1EGjek=": "action_listen",
+    "eJytj9EJwzAMRFfxAJ3Aq4QgRKzUglg2ilwoxrvXkP67tP0Rd/B4nJbWb64VpQfgZpzFu3YFEEzk3bscfBrJYOtJOhiWUc27uxJZnziqGSlc6HeGyYqUc4AqEUt5fjZmizRuLf9wBQ5gEQ0iHT8KJ3/ivrOm3tcXH2yoGw==": "utter_happy",
+    "eJytj0EKAyEMRa/iAXoCr1JKCGOmBsYomVgoMnevYLfFoe0m5MPn5eXajotrRekBuBhn8a6NBQQTefcOG+9G0rt1J+0dlh7Nu7sS2TFhVDNSGNXvCBOLlHOAKhFLeZ6TWSL1Wcs/WIEDWESDSNuPwMmfuK6s6ZzVuPcRcXsBe37Blg==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohNTcxMwestLY2FgB4JB12": "email_form",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohNTcxMwestJaAQRCVaflFufhNiQUAJyw36g==": "form{\"name\":\"email_form\"}",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohNTcxMwestJaAQRCVaflFuZSYAtJfHQNix1jFIIyMqcVvaCwAHw9YVQ==": "slot{\"email\":\"max@gmail.com\"}",
+    "eJylzE0KgCAQhuGreIDoAK66RxMiMoXgT6hFMHj3NIOWLdx9A+88M+WB0R7wFFIl7R1n1IZw0iJn72F0TOhKe0QMpdGunIkztFKbJ80/UCtXH2yPUv8J6gYOHwm5B43GJ2paUa28pq3uUflfeLkBvBV6Fw==": "slot{\"subject\":\"Application\"}",
+    "eJytzE0KAjEMhuGr9ADiAbrSc9hhiCVKpX+0GRFC7z6pFVzOYmb3Bd48N24nxbngewZLLkWteIw5QkCtfod3lTBKu1Qs0rgoJ2mFAZz/pm0DGuUjlbBH6f9s+jba/EnT9qDVJ+KhiRrgc3n2fbbpELgu9xdaEvqas3cWerEFTysl2pw4": "slot{\"message\":\"An example of a message is a speech mae An example of a message inbox\"}",
+    "eJytkFEKgzAMhq+SA4wdoE/zHOuQWKLraNpi6hCKd187hT0NH/Tt/8mXj5B7Xi6Q40jvFk2ywSvIa2g9MinYirOSyBd2EhoLY32pSQExWvdFlx3RSvZh5COWup91zVrpn1IvR6TiQsqrrVgZ59tQ89WEU8QydS8yqaibGJ01WIkzxEwiONRPNB5oRo6OIPSAsE3ASikSicwTGAn+cr4L895Jjw9qMtIO": "form{\"name\":null}",
+    "eJytkUEKwjAQRa8yBxAPkJU9h5EyDWONZJLQSaUQencTW9CNdNHu/mdeHsPkmucT5DjQq0WTbPAK8hJaj0wK1uKsJPKFHYWGwlhfalJAjNZ90HlDtJD3MPAeS32fdc1a6a9Sz3uk4kLKi61YGadLX/PZhEPEMnZPMqmomxidNViJI8RMItjXSzQeaEKOjiDcAWGdgJVSJBKZBzAS/OV8F6Z9K/3+jB+d25Dd3gji72E=": "action_listen",
+    "eJytj1EKwyAQRK/iAXoCr1LCInGIQrKKWQNFvHsX7L+h7c8yA4/H7LP1h2m54CK3SkxsTRuB2B2w5lP2eApY2XqiKBNZq1izFUD6xFFFUGig3xkmK46UPFUOLufXvTFrgN6a/+Hy0ZMEJxSw/yic/OnBqlje0A2nVg==": "utter_goodbye",
+    "eJytj9EJwzAMRFfxAJ3Aq4Qg3PiIDYlsHLkQTHavIP0NDm1/hA6Op6ehHQ/TcsGL3CQxsTXtXIjdCms+YYmbgLVbNxTtRNYo1swFkKPDqCIodFa/I3Qs1pQ8VQ4u5/2ezBSgs+Z/sHz0JMEJBSw/Ajt/evBNp1mPPndcIcY3+fTA0w==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVufn5KSDzE4EGxQIAPEFQdQ==": "utter_happy",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVufn5KSDzE4l0SkZiQUElfmNiAVKZa5w=": "action_listen"
+  }
+}

@@ -1,0 +1,41 @@
+version: "3.0"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+
+- story: sad path 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+
+- story: sad path 2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+
+- story: path12
+  steps:
+  - intent: email_name
+  - action: email_form  
+  - action: form{"name":"email_form"}
+  - action: slot{"email":"max@gmail.com"}
+  - action: slot{"subject":"Application"}
+  - action: slot{"message":"An example of a message is a speech mae An example of a message inbox"}
+  - action: form{"name":null}
+
